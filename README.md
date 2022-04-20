@@ -9,6 +9,8 @@
   </a>
 </p>
 
+> This is an effort to learn typescript and graphql
+
 ## Install
 
 ```sh
@@ -25,14 +27,15 @@ npm run dev
 
 👤 **James Dante**
 
-* Website: https://jamesmidzi.netlify.app/
-* Twitter: [@Psypher1](https://twitter.com/Psypher1)
-* Github: [@Psypher1](https://github.com/Psypher1)
-* LinkedIn: [@jamesmidzi	](https://linkedin.com/in/jamesmidzi	)
+- Website: https://jamesmidzi.netlify.app/
+- Twitter: [@Psypher1](https://twitter.com/Psypher1)
+- Github: [@Psypher1](https://github.com/Psypher1)
+- LinkedIn: [@jamesmidzi ](https://linkedin.com/in/jamesmidzi)
 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
 
-***
+---
+
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
